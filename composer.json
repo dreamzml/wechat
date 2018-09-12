@@ -15,12 +15,12 @@
         }
     ],
     "require": {
-        "php": ">=7.0",
+        "php": ">=7.2",
         "ext-fileinfo": "*",
         "ext-openssl": "*",
         "ext-simplexml": "*",
         "easywechat-composer/easywechat-composer": "^1.0",
-        "guzzlehttp/guzzle": "^6.2",
+        "guzzlehttp/guzzle": "^6.3",
         "monolog/monolog": "^1.22",
         "overtrue/socialite": "~2.0",
         "pimple/pimple": "^3.0",
